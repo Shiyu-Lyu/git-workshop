@@ -1,6 +1,6 @@
 # Personal Profile
 
-- **Name:** 
-- **Title:** 
-- **Organization:** 
-- **Hobbies:** 
+- **Name:** Shiyu Lyu
+- **Title:** Mr.
+- **Organization:**  Business Analytics
+- **Hobbies:** Music, Games, Gym
